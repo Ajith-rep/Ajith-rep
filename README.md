@@ -27,7 +27,7 @@
 
 ## 📫 Let's Connect
 - Email: khambhamajith@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/ajithkumarkhambham/)
+- LinkedIn: https://www.linkedin.com/in/ajithkumarkhambham/
 
 
 <h3 align="left">Languages and Tools:</h3>
